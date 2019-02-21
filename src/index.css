@@ -12,3 +12,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+img {
+  width: 55px;
+  margin: 20px 0;
+  border-style: none;
+  vertical-align: middle;
+}
+h1,
+h2 {
+  font-family: "Roboto";
+  font-size: 42px;
+  font-weight: 500;
+}
+p {
+  font-family: "Roboto";
+  font-size: 19px;
+  font-weight: 300;
+}
+.card {
+  width: 18rem;
+}
